@@ -1,0 +1,11 @@
+C:\Users\jmlev\source\repos\BikeInventory1\BikeInventory1\bin\Debug\netcoreapp2.0\BikeInventory1.deps.json
+C:\Users\jmlev\source\repos\BikeInventory1\BikeInventory1\bin\Debug\netcoreapp2.0\BikeInventory1.runtimeconfig.json
+C:\Users\jmlev\source\repos\BikeInventory1\BikeInventory1\bin\Debug\netcoreapp2.0\BikeInventory1.runtimeconfig.dev.json
+C:\Users\jmlev\source\repos\BikeInventory1\BikeInventory1\bin\Debug\netcoreapp2.0\BikeInventory1.dll
+C:\Users\jmlev\source\repos\BikeInventory1\BikeInventory1\bin\Debug\netcoreapp2.0\BikeInventory1.pdb
+C:\Users\jmlev\source\repos\BikeInventory1\BikeInventory1\obj\Debug\netcoreapp2.0\BikeInventory1.csprojResolveAssemblyReference.cache
+C:\Users\jmlev\source\repos\BikeInventory1\BikeInventory1\obj\Debug\netcoreapp2.0\BikeInventory1.csproj.CoreCompileInputs.cache
+C:\Users\jmlev\source\repos\BikeInventory1\BikeInventory1\obj\Debug\netcoreapp2.0\BikeInventory1.AssemblyInfoInputs.cache
+C:\Users\jmlev\source\repos\BikeInventory1\BikeInventory1\obj\Debug\netcoreapp2.0\BikeInventory1.AssemblyInfo.cs
+C:\Users\jmlev\source\repos\BikeInventory1\BikeInventory1\obj\Debug\netcoreapp2.0\BikeInventory1.dll
+C:\Users\jmlev\source\repos\BikeInventory1\BikeInventory1\obj\Debug\netcoreapp2.0\BikeInventory1.pdb
